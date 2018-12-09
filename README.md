@@ -19,5 +19,5 @@ again, I would use a hash table for ease of access in python that would be the s
 dictionary.
 
 Part 3 was primarily to learn the difference between a static scope and a dynamic scope and
-how to implement each one within the python language to allow the PostScript interpreter to
+how to implement each one within the Python 3 language to allow the PostScript interpreter to
 act accordingly.
